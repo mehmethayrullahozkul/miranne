@@ -1,0 +1,20 @@
+:root {
+  --color-canvas: #f1eff2;
+  --color-surface: #ffffff;
+  --color-surface-soft: #f5f5f7;
+  --color-text: #141416;
+  --color-muted: #78787d;
+  --color-line: #dedee3;
+  --color-accent: #ff3b22;
+  --color-accent-soft: #ffe9e4;
+  --color-success: #168c66;
+  --color-success-soft: #d7f3e8;
+  --font-system: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", sans-serif;
+  --radius-small: 10px;
+  --radius-medium: 16px;
+  --radius-large: 26px;
+  --shadow-floating: 0 16px 44px rgb(19 19 22 / 12%);
+  --page-padding: 20px;
+  --header-height: 64px;
+  --tap-size: 44px;
+}
